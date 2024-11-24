@@ -1,0 +1,15 @@
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\bin\Debug\net6.0\6T25_LoukaConstant_Animaux.exe
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\bin\Debug\net6.0\6T25_LoukaConstant_Animaux.deps.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\bin\Debug\net6.0\6T25_LoukaConstant_Animaux.runtimeconfig.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\bin\Debug\net6.0\6T25_LoukaConstant_Animaux.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\bin\Debug\net6.0\6T25_LoukaConstant_Animaux.pdb
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.sourcelink.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\refint\6T25_LoukaConstant_Animaux.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.pdb
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\6T25_LoukaConstant_Animaux.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\POO\6T25_LoukaConstant_Animaux\6T25_LoukaConstant_Animaux\obj\Debug\net6.0\ref\6T25_LoukaConstant_Animaux.dll
